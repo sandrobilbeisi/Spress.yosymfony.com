@@ -19,7 +19,7 @@ To dumps information about a variable simply uses `dump` function from Twig:
 
 {% verbatim %}
 ```
-{{ dump(page) }}
+<pre>{{ dump(page) }}</pre>
 ```
 {% endverbatim %}
 
